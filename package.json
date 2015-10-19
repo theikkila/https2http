@@ -1,0 +1,23 @@
+{
+  "name": "https2http",
+  "version": "1.0.0",
+  "description": "small https to http proxy",
+  "main": "proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theikkila/https2http.git"
+  },
+  "author": "Teemu Heikkilä",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theikkila/https2http/issues"
+  },
+  "homepage": "https://github.com/theikkila/https2http",
+  "dependencies": {
+    "config.json": "0.0.4",
+    "request": "^2.65.0"
+  }
+}
