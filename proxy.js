@@ -1,4 +1,4 @@
-var config = require('config.json')('./settings.json');
+var config = require('./settings.json');
 var http = require('http');
 var request = require('request');
 
